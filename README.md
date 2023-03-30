@@ -5,7 +5,7 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
+  - [Screenshots](#screenshots)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -14,7 +14,7 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 - [Acknowledgments](#acknowledgments)
 
 
-### Screenshot
+### Screenshots
 
 ![Screenshot](./images/screenshot-desktop.png)
 ![Screenshot](./images/screenshot-mobile.png)
@@ -22,8 +22,8 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/frontend-mentor-qr-code-component-solution-Y-4uLkeIDp)
+- Live Site URL: [Live Site URL](https://ladykays.github.io/space-tourism/)
 
 ## My process
 I began by constructing a semantic HTML structure, creating classes to style the page, and then applying those styles.
